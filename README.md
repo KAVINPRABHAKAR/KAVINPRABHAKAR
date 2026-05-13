@@ -9,8 +9,7 @@
 # 🚀 About Me
 
 * 🔭 Focused on Backend Development using Python
-* 🌱 Currently learning Cloud & DevOps technologies
-* 🧠 Practicing Data Structures & Algorithms regularly
+* 🌱 Improving problem-solving and backend architecture skills
 * ⚡ Interested in scalable backend systems and API development
 * 🎯 Looking for opportunities as a Python Backend Developer
 
@@ -75,53 +74,54 @@
 
 ## 🌐 Django Projects
 
-### 🚑 Hospital Appointment Management System
+❇️ Hospital Appointment Management System
+Built patient registration, doctor-wise queue management, token generation, appointment scheduling, consultation tracking, and workflow automation modules.
 
-* Appointment booking & doctor scheduling
-* Patient & admin management
-* Tech: Django, MySQL
+🎯 Tech Stack: Python, Django, ReportLab, openpyxl, MySQL, HTML5, CSS3, Bootstrap 5
 
-### 📖 Library Management & Fine Calculation System
+---
 
-* Book issue/return management
-* Automatic fine calculation
-* Tech: Django, MySQL
+❇️ Library Management & Fine Calculation System
+Developed book inventory handling, member management, issue/return tracking, due-date monitoring, and automated fine calculation features.
 
-### 🍕 Restaurant POS & Billing System
+🎯 Tech Stack: Python, OOP, Django, ReportLab, openpyxl, MySQL, HTML5, CSS3, Bootstrap 5
 
-* Billing & order management
-* Invoice generation
-* Tech: Django
+---
 
-### 🏦 Smart ATM Banking System
+❇️ Restaurant POS & Billing System
+Implemented billing automation, GST/service charge calculation, inventory management, order validation, sales tracking, and reporting features.
 
-* Deposit, withdrawal & balance management
-* Secure authentication system
-* Tech: Django
+🎯 Tech Stack: Python, Django, MySQL, HTML5, CSS3, Bootstrap 5
 
-### 🚗 Smart Parking Management System
+---
 
-* Parking slot allocation system
-* Vehicle entry/exit management
-* Tech: Django, MySQL
+❇️ Smart Parking Management System
+Created automated slot allocation, vehicle entry/exit tracking, time-based billing, parking availability monitoring, and revenue tracking functionalities.
+
+🎯 Tech Stack: Python, Django, NumPy, Pandas, MySQL, HTML5, CSS3
+
+---
+
+❇️ Smart ATM Banking System
+Implemented secure PIN authentication, deposits, withdrawals, fund transfers, transaction logging, and JSON-based persistent storage with modular architecture.
+
+🎯 Tech Stack: Python, Django, JSON, openpyxl, NumPy, Pandas, MySQL, HTML5, CSS3
 
 ---
 
 ## ⚡ FastAPI Projects
 
-### 📊 Subscription Management & Churn Analytics System
+❇️ Subscription Management & Churn Analytics System
+Developed subscription lifecycle management, churn analysis dashboards, customer retention tracking, payment monitoring, and API-driven reporting modules.
 
-* Customer subscription tracking
-* Churn analytics & reporting
-* REST API development
-* Tech: FastAPI, Pandas, MySQL
+🎯 Tech Stack: Python, FastAPI, Pandas, NumPy, MySQL, JWT Authentication, REST API
 
-### 👨‍💼 Employee Performance & Salary Management System
+---
 
-* Employee performance tracking
-* Salary management system
-* RESTful API development
-* Tech: FastAPI, MongoDB/MySQL
+❇️ Employee Performance & Salary Management System
+Built employee performance evaluation, attendance monitoring, salary processing, KPI tracking, report generation, and role-based management modules.
+
+🎯 Tech Stack: Python, FastAPI, MongoDB/MySQL, JWT Authentication, Pandas, REST API
 
 ---
 
