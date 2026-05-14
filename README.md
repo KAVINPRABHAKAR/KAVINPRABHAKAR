@@ -1,25 +1,40 @@
-# 👋 Hi, I'm C.Kavinprabhakar
+<h1 align="center">Hi 👋, I'm C.Kavinprabhakar</h1>
+
+<h3 align="center">Aspiring Python Backend Developer | MCA Graduate</h3>
+
+<p align="center">
+Passionate about Backend Development, REST APIs, Problem Solving, and Building Real-World Applications using Python.
+</p>
 
 ---
 
-🎓 MCA Graduate
-💻 Aspiring Python Backend Developer
-🚀 Passionate about Backend Development, APIs & Problem Solving
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/kavinprabhakar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kavinprabhakar1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KAVINPRABHAKAR">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kavinprabhakar)               [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:kavinprabhakar1@gmail.com)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:kavinprabhakar1@gmail.com)
 
 # 🚀 About Me
 
-* 🔭 Focused on Backend Development using Python
-* 🌱 Improving problem-solving and backend architecture skills
-* ⚡ Interested in scalable backend systems and API development
-* 🎯 Looking for opportunities as a Python Backend Developer
+- 💻 Focused on Python Backend Development
+- ⚡ Interested in REST APIs & Scalable Backend Systems
+- 🧠 Improving Problem Solving & DSA Skills
+- 🌱 Learning Backend Architecture & DevOps
+- 🎯 Looking for Python Backend Developer Opportunities
 
 ---
 
@@ -27,140 +42,248 @@
 
 ## 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
 
 ---
 
 ## ⚡ Backend Frameworks
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
-
----
-
-## 🧠 Data Structures & Problem Solving
-
-* Data Structures & Algorithms (DSA)
+<p>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
 
 ---
 
 ## 📚 Libraries
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
 ## 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
----
-
-## 🌐 Frontend
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ---
 
 ## 🛠️ Tools & Platforms
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge\&logo=jira\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
 
 ---
 
 # 🚀 Projects
 
-## 🌐 Django Projects
+# 🏦 Smart ATM Banking System
 
-❇️ Hospital Appointment Management System
-Built patient registration, doctor-wise queue management, token generation, appointment scheduling, consultation tracking, and workflow automation modules.
+📅 Apr 2026 – May 2026
 
-🎯 Tech Stack: Python, Django, ReportLab, openpyxl, MySQL, HTML5, CSS3, Bootstrap 5
+🏢 Associated with Unified Mentor Private Limited
 
----
+🎯 Developed a Smart ATM Banking System to simulate real-world banking operations using Python with secure authentication and persistent data storage.
 
-❇️ Library Management & Fine Calculation System
-Developed book inventory handling, member management, issue/return tracking, due-date monitoring, and automated fine calculation features.
+🎯 Implemented features like balance inquiry, deposits, withdrawals, fund transfers, transaction history tracking, and mini statement generation.
 
-🎯 Tech Stack: Python, OOP, Django, ReportLab, openpyxl, MySQL, HTML5, CSS3, Bootstrap 5
+💻 Tech Stack: Python, Django, JSON, MySQL, Pandas, Git & GitHub
 
----
+🛠 Key Features:
 
-❇️ Restaurant POS & Billing System
-Implemented billing automation, GST/service charge calculation, inventory management, order validation, sales tracking, and reporting features.
-
-🎯 Tech Stack: Python, Django, MySQL, HTML5, CSS3, Bootstrap 5
-
----
-
-❇️ Smart Parking Management System
-Created automated slot allocation, vehicle entry/exit tracking, time-based billing, parking availability monitoring, and revenue tracking functionalities.
-
-🎯 Tech Stack: Python, Django, NumPy, Pandas, MySQL, HTML5, CSS3
+✔ Secure PIN-based authentication  
+✔ Deposit, withdrawal & fund transfer system  
+✔ Transaction history & mini statements  
+✔ JSON-based persistent storage  
+✔ Input validation & error handling  
 
 ---
 
-❇️ Smart ATM Banking System
-Implemented secure PIN authentication, deposits, withdrawals, fund transfers, transaction logging, and JSON-based persistent storage with modular architecture.
+# 🍕 Restaurant POS & Billing System
 
-🎯 Tech Stack: Python, Django, JSON, openpyxl, NumPy, Pandas, MySQL, HTML5, CSS3
+📅 Mar 2026 – Apr 2026
+
+🏢 Associated with Unified Mentor Private Limited
+
+🎯 Developed a Restaurant POS & Billing System to automate restaurant billing, inventory management, sales tracking, and order processing.
+
+🎯 Implemented GST/service charge calculation, stock validation, automated inventory updates, and reporting functionalities.
+
+💻 Tech Stack: Python, Django, MySQL, Bootstrap 5, ReportLab, OpenPyXL
+
+🛠 Key Features:
+
+✔ Menu & inventory management  
+✔ Automated billing with GST  
+✔ Order validation & stock checking  
+✔ Real-time inventory updates  
+✔ Daily sales tracking & analytics  
 
 ---
 
-## ⚡ FastAPI Projects
+# 🚗 Smart Parking Management System
 
-❇️ Subscription Management & Churn Analytics System
-Developed subscription lifecycle management, churn analysis dashboards, customer retention tracking, payment monitoring, and API-driven reporting modules.
+📅 Feb 2026 – Mar 2026
 
-🎯 Tech Stack: Python, FastAPI, Pandas, NumPy, MySQL, JWT Authentication, REST API
+🏢 Associated with Unified Mentor Private Limited
+
+🎯 Developed a Smart Parking Management System for automated slot allocation, vehicle tracking, billing, and parking availability monitoring.
+
+🎯 Implemented time-based billing logic, revenue tracking, and validation mechanisms for parking operations.
+
+💻 Tech Stack: Python, Django, Pandas, NumPy, MySQL
+
+🛠 Key Features:
+
+✔ Automatic parking slot allocation  
+✔ Vehicle entry & exit management  
+✔ Time-based billing system  
+✔ Revenue tracking & reporting  
+✔ Parking availability monitoring  
 
 ---
 
-❇️ Employee Performance & Salary Management System
-Built employee performance evaluation, attendance monitoring, salary processing, KPI tracking, report generation, and role-based management modules.
+# 📚 Library Management & Fine Calculation System
 
-🎯 Tech Stack: Python, FastAPI, MongoDB/MySQL, JWT Authentication, Pandas, REST API
+📅 Jan 2026 – Feb 2026
+
+🏢 Associated with Unified Mentor Private Limited
+
+🎯 Developed a Library Management System to automate inventory handling, issue/return workflows, due-date monitoring, and fine calculation.
+
+🎯 Designed modular workflows for borrowing history tracking and automated overdue management.
+
+💻 Tech Stack: Python, Django, MySQL, ReportLab, OpenPyXL
+
+🛠 Key Features:
+
+✔ Book inventory management  
+✔ Book issue/return system  
+✔ Due-date monitoring  
+✔ Automated fine calculation  
+✔ Borrowing history & reporting  
 
 ---
 
-# 🎯 Goals
+# 🚑 Hospital Appointment Management System
 
-* 🏢 Become a Backend Developer in Python
-* ⚙️ Build scalable backend applications
-* 📈 Improve coding & development skills daily
-* ☁️ Learn Cloud & DevOps technologies
-* 🗄️ Gain deeper knowledge in Database Design & Optimization
-* ⚛️ Learn React.js & modern frontend technologies
-* 🚀 Build impactful and user-friendly applications
+📅 Dec 2025 – Jan 2026
+
+🏢 Associated with Unified Mentor Private Limited
+
+🎯 Developed a Hospital Appointment Management System for patient registration, appointment scheduling, and doctor-wise queue management.
+
+🎯 Implemented token generation, consultation tracking, and patient search functionalities.
+
+💻 Tech Stack: Python, Django, MySQL, Bootstrap 5
+
+🛠 Key Features:
+
+✔ Digital patient registration  
+✔ Doctor-wise appointment queues  
+✔ Automated token generation  
+✔ Consultation tracking system  
+✔ Queue management logic  
+
+---
+
+# 📊 Subscription Management & Churn Analytics System
+
+📅 Nov 2024 – Apr 2025
+
+🏢 Associated with Ooty Arts and Science College, Ooty
+
+🎯 Developed a FastAPI-based Subscription Management & Churn Analytics System for tracking subscriptions, churn risks, and revenue analytics.
+
+🎯 Implemented customer retention analysis, MRR/ARPU calculations, and REST API-based backend architecture.
+
+💻 Tech Stack: Python, FastAPI, MySQL, SQLAlchemy, Pandas, NumPy
+
+🛠 Key Features:
+
+✔ Subscription management (CRUD)  
+✔ Churn rate calculation  
+✔ Revenue metrics (MRR, ARPU)  
+✔ Customer retention insights  
+✔ REST API architecture  
+
+---
+
+# 👨‍💼 Employee Performance & Salary Management System
+
+📅 Jun 2023 – Nov 2024
+
+🏢 Associated with Ooty Arts and Science College, Ooty
+
+🎯 Developed an HR analytics system for employee management, salary tracking, performance evaluation, and report generation.
+
+🎯 Implemented REST APIs with department-wise performance analytics and salary comparison reporting.
+
+💻 Tech Stack: Python, FastAPI, MySQL, MongoDB, Pandas
+
+🛠 Key Features:
+
+✔ Employee record management  
+✔ Salary tracking & calculations  
+✔ Performance score analytics  
+✔ Department-wise insights  
+✔ REST API-based architecture  
+
+---
+
+# 🎯 Career Goals
+
+- 🏢 Become a Python Backend Developer
+- ⚙️ Build Scalable Backend Applications
+- ☁️ Learn Cloud & DevOps Technologies
+- 📈 Improve DSA & System Design Skills
+- 🚀 Contribute to Real-World Projects
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=kavinprabhakar\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KAVINPRABHAKAR&theme=tokyonight&show_icons=true"/>
+</p>
 
-![](https://streak-stats.demolab.com/?user=kavinprabhakar\&theme=tokyonight\&hide_border=false)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=KAVINPRABHAKAR&theme=tokyonight"/>
+</p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kavinprabhakar\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVINPRABHAKAR&theme=tokyonight&layout=compact"/>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=kavinprabhakar\&theme=tokyonight\&no-frame=false\&no-bg=false\&margin-w=4)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=KAVINPRABHAKAR&theme=tokyonight&margin-w=10"/>
+</p>
 
+---
 
-![](https://komarev.com/ghpvc/?username=kavinprabhakar\&color=blueviolet)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=KAVINPRABHAKAR&color=blueviolet"/>
+</p>
 
-<!-- Proudly customized by Kavinprabhakar -->
+---
+
+<h3 align="center">⭐ Building Scalable Backend Systems with Python ⭐</h3>
