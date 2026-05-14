@@ -160,15 +160,6 @@ Built employee performance evaluation, attendance monitoring, salary processing,
 
 ![](https://github-profile-trophy.vercel.app/?username=kavinprabhakar\&theme=tokyonight\&no-frame=false\&no-bg=false\&margin-w=4)
 
----
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kavinprabhakar)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:kavinprabhakar1@gmail.com)
-
----
 
 ![](https://komarev.com/ghpvc/?username=kavinprabhakar\&color=blueviolet)
 
